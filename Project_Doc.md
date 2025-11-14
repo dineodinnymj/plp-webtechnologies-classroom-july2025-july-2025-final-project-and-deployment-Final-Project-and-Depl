@@ -26,4 +26,5 @@ A responsive multipage website built with HTML5, CSS3, and JavaScript for a tech
 - JavaScript (DOM manipulation, form validation, interactive features)
 - Font Awesome (Icons)
 
-## File Structure
+## Deployment
+link: playful-crepe-e38e0f.netlify.app
