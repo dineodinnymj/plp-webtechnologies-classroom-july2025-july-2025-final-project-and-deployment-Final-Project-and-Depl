@@ -67,8 +67,7 @@ Deploy your project and confirm that:
 * It has a clear, shareable URL
 
 **Goal:** Publish your work online and make it accessible to the world.
-
----
+Deployment link:playful-crepe-e38e0f.netlify.app---
 
 ## Deliverables
 
